@@ -1,0 +1,6 @@
+#include "conn.cpp"
+#include "book.cpp"
+#include "comic.cpp"
+#include "magazine.cpp"
+#include "review.cpp"
+#include "string.cpp"
